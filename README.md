@@ -25,6 +25,7 @@
 
 ---
 ### Updates
+- **[2025/12/5]** 🔥 We have release MolmoAct2, faster, stronger, and better in every aspect. [**Check it out**](https://github.com/allenai/molmoact2). 
 - **[2025/12/5]** 🔥 Tips on zero-shot evaluation of allenai/MolmoAct-7B-D-0812 on Franka setup with MolmoAct mid-training at [**5.4 Zero-shot evaluation**](#54-zero-shot-evaluation). 
 - **[2025/11/30]** 🔥 Code for steering experiment of MolmoAct in SimplerEnv has been released at [**5.3 Steer-SimplerEnv**](#53-steer-simplerenv).
 - **[2025/10/24]** 🔥 Code for fine-tuning and data processing have been released! Everything is fully open-source.
